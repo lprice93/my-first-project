@@ -1,6 +1,7 @@
 .box {
     height: 10em;
     width: 10em;
+    float: left;
 }
 
 .red {
