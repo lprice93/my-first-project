@@ -3,6 +3,13 @@
     width: 10em;
     float: left;
 }
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
 
 .red {
     background: red;
